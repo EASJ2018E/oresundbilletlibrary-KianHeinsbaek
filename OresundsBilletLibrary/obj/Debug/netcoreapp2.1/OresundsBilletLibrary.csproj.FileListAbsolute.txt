@@ -1,0 +1,12 @@
+C:\source\OresundsbroenBilletLibrary\oresundbilletlibrary-KianHeinsbaek\OresundsBilletLibrary\bin\Debug\netcoreapp2.1\OresundsBilletLibrary.deps.json
+C:\source\OresundsbroenBilletLibrary\oresundbilletlibrary-KianHeinsbaek\OresundsBilletLibrary\bin\Debug\netcoreapp2.1\OresundsBilletLibrary.dll
+C:\source\OresundsbroenBilletLibrary\oresundbilletlibrary-KianHeinsbaek\OresundsBilletLibrary\bin\Debug\netcoreapp2.1\OresundsBilletLibrary.pdb
+C:\source\OresundsbroenBilletLibrary\oresundbilletlibrary-KianHeinsbaek\OresundsBilletLibrary\bin\Debug\netcoreapp2.1\BilletLibrary.dll
+C:\source\OresundsbroenBilletLibrary\oresundbilletlibrary-KianHeinsbaek\OresundsBilletLibrary\bin\Debug\netcoreapp2.1\BilletLibrary.xml
+C:\source\OresundsbroenBilletLibrary\oresundbilletlibrary-KianHeinsbaek\OresundsBilletLibrary\obj\Debug\netcoreapp2.1\OresundsBilletLibrary.csprojAssemblyReference.cache
+C:\source\OresundsbroenBilletLibrary\oresundbilletlibrary-KianHeinsbaek\OresundsBilletLibrary\obj\Debug\netcoreapp2.1\OresundsBilletLibrary.csproj.CoreCompileInputs.cache
+C:\source\OresundsbroenBilletLibrary\oresundbilletlibrary-KianHeinsbaek\OresundsBilletLibrary\obj\Debug\netcoreapp2.1\OresundsBilletLibrary.AssemblyInfoInputs.cache
+C:\source\OresundsbroenBilletLibrary\oresundbilletlibrary-KianHeinsbaek\OresundsBilletLibrary\obj\Debug\netcoreapp2.1\OresundsBilletLibrary.AssemblyInfo.cs
+C:\source\OresundsbroenBilletLibrary\oresundbilletlibrary-KianHeinsbaek\OresundsBilletLibrary\obj\Debug\netcoreapp2.1\OresundsBilletLibrary.csproj.CopyComplete
+C:\source\OresundsbroenBilletLibrary\oresundbilletlibrary-KianHeinsbaek\OresundsBilletLibrary\obj\Debug\netcoreapp2.1\OresundsBilletLibrary.dll
+C:\source\OresundsbroenBilletLibrary\oresundbilletlibrary-KianHeinsbaek\OresundsBilletLibrary\obj\Debug\netcoreapp2.1\OresundsBilletLibrary.pdb

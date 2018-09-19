@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OresundsBilletLibrary", "OresundsBilletLibrary\OresundsBilletLibrary.csproj", "{97A276B0-37D3-44AE-B347-28807B300E1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OresundsTest", "..\OresundsTest\OresundsTest.csproj", "{D6CECDEF-D893-46CA-A9B7-C6CDA551A459}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97A276B0-37D3-44AE-B347-28807B300E1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97A276B0-37D3-44AE-B347-28807B300E1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97A276B0-37D3-44AE-B347-28807B300E1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97A276B0-37D3-44AE-B347-28807B300E1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6CECDEF-D893-46CA-A9B7-C6CDA551A459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6CECDEF-D893-46CA-A9B7-C6CDA551A459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6CECDEF-D893-46CA-A9B7-C6CDA551A459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6CECDEF-D893-46CA-A9B7-C6CDA551A459}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A628137-7CE1-4A83-962C-A8FBA715457B}
+	EndGlobalSection
+EndGlobal
